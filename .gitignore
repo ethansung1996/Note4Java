@@ -1,0 +1,6 @@
+
+#json文件
+*.json
+
+#回收站文件夹
+_v_recycle_bin/
